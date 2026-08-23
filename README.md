@@ -14,7 +14,7 @@ As this is a work in progress, and the exact use might change with time, I do no
 
 ## Future capabilities
 
-The planned capabilities of the node are to autonomously save vibration data and synchronize it with other nodes using a wireless link.
+The planned capabilities of the node are to autonomously save vibration data and synchronize it in time with other nodes using a wireless link. The nodes equipped with the 3-axis gyroscope would also be able to track changes in rotation. 
 
 ## System elements
 
@@ -39,4 +39,4 @@ The system makes use of the small cyllindrical battery, repurposed from an ellec
 
 ![](/images/casing_drawing_Page__.svg)
 
-*Outside view of the sensor casing*
+*Model of the the sensor casing*
